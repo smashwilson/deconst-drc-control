@@ -1,2 +1,2 @@
 [developer.rackspace.com]
-/ default drc/default.hbs
+/ default drc/foo.hbs
