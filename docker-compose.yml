@@ -58,7 +58,7 @@ webhook:
   ports:
   - "9003:8080"
 etcdwatcher:
-  build: quay.io/deconst/etcd-watcher
+  image: quay.io/deconst/etcd-watcher
   ports:
   - "9004:2379"
   links:
